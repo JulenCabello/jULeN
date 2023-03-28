@@ -1,0 +1,41 @@
+head, body{
+     background: silver;
+	 }
+h1 { 
+    color:rgb( 240,0,0);
+	font-size: 55px;
+	text-align: cnter;
+	font-family: verdana;
+	background : sky blue;
+	border: 5px white solid
+}	
+li,td(
+	color: white;
+)
+	.rojo{
+		color: red;
+}
+td{
+	border:5px white solid;
+}
+
+table{
+	border-collapse: collapse;
+}
+p{
+	color: white;
+}
+img{
+	border: 5px white solid;
+}
+h2{
+	color: rgb(255, 150, 0);
+	font-family:verdana;
+	background:sky blue;
+	border:5px white solid;
+.centro{
+	position: relative;
+	left: 670 px;
+}
+	
+	
